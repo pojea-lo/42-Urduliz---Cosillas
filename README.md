@@ -8,9 +8,13 @@
     
   2- Modificar el goinfree para instalar el valgrind:
 
-    Ir a la siguiente url: https://github.com/docgloucester/42homebrew_sgoinfre
+    Ir a la siguiente url: 
     
-    Copiar en la terminal: curl -fsSL https://raw.githubusercontent.com/docgloucester/42homebrew_sgoinfre/master/install.sh | zsh
+    https://github.com/docgloucester/42homebrew_sgoinfre
+    
+    Copiar en la terminal: 
+    
+    curl -fsSL https://raw.githubusercontent.com/docgloucester/42homebrew_sgoinfre/master/install.sh | zsh
     
   3- Instalar el valgrind con los siguientes comandos:
     
