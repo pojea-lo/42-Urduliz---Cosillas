@@ -1,5 +1,9 @@
 # 42-Urduliz---Cosillas:
 
+#Para liberar espacio del usuario:
+
+https://42born2code.slack.com/archives/C021XRWD76K/p1625555113026200
+
 #Para instalar valgrind:
 
   1- Instalar brew:
