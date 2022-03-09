@@ -4,7 +4,7 @@
 
 https://42born2code.slack.com/archives/C021XRWD76K/p1625555113026200 - sitio con información en el slack
 
-rm -r ~/Library/Caches/*; rm ~/.zcompdump*; brew cleanup
+rm -r ~/Library/Caches/* | rm ~/.zcompdump* | brew cleanup
 
 #Para instalar valgrind:
 
