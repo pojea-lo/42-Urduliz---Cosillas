@@ -33,4 +33,5 @@ rm -r ~/Library/Caches/* | rm ~/.zcompdump* | brew cleanup
   *Para abrir pestañas nuevas: :-tabnew "nombre del archivo"
   
   *Para substitur:(rango de filas) + s + / + (codigo a subsituir) + / + (codigo nuevo) + / + g(para que busque mas en una linea) c(para confirmar cambio)
-    Por ejemplo: :13,35 s/i/j/gc
+    
+    Por ejemplo: :13 , 35 s / i / j / gc  - substituye todas las i por j pidiendo confirmacion entre las filas 13 y 35
