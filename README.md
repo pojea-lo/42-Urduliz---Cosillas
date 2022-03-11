@@ -31,5 +31,6 @@ rm -r ~/Library/Caches/* | rm ~/.zcompdump* | brew cleanup
 #Cosillas del vim:
 
   *Para abrir pestañas nuevas: :-tabnew "nombre del archivo"
+  
   *Para substitur:(rango de filas) + s + / + (codigo a subsituir) + / + (codigo nuevo) + / + g(para que busque mas en una linea) c(para confirmar cambio)
     Por ejemplo: :13,35 s/i/j/gc
