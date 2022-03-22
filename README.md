@@ -1,5 +1,9 @@
 # 42-Urduliz---Cosillas:
 
+#TODAS LAS  CORRRECCIONES:
+
+https://github.com/caecitasminimus/school21-checklists
+
 #Para liberar espacio del usuario:
 
 https://42born2code.slack.com/archives/C021XRWD76K/p1625555113026200 - sitio con información en el slack
